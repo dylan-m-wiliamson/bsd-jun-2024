@@ -1,0 +1,12 @@
+{
+    "request": {
+        "urlPathTemplate": "/techs/{softwareId}"
+    },
+    "response": {
+        "status": 200,
+        "jsonBody": {
+            "name": "Jane Smith",
+            "phoneNumber": "867-5309"
+        }
+    }
+}
